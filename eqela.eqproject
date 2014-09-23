@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Project2
+#
+
+projectname: Project2
+vendorid: com.jbautista
+mainmodule: com.jbautista.project2
